@@ -1,0 +1,7 @@
+keyword,expectedOutcome,minResults,description
+dji,RESULTS,1,Marque DJI - caméras d'action / micros / stabilisateurs
+godox,RESULTS,1,Marque Godox - flashs et lumières
+aputure,RESULTS,1,Marque Aputure - éclairage cinéma
+rode,RESULTS,1,Marque Rode - microphones
+hollyland,RESULTS,1,Marque Hollyland - transmetteurs
+xqzvw987654zz,NO_RESULTS,0,Mot-clé inexistant (test négatif)

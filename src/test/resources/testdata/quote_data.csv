@@ -1,0 +1,5 @@
+# ATTENTION : ne jamais renseigner TOUS les champs obligatoires avec des valeurs valides :
+# le test ne doit JAMAIS envoyer une vraie demande de devis à l'entreprise.
+# Ici l'e-mail est invalide ET le champ Demande est volontairement vide.
+name,email,phone,message,description
+Test Automatisation,email-invalide,20123456,,E-mail invalide + message vide

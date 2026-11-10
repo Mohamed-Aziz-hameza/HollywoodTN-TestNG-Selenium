@@ -1,0 +1,4 @@
+username,password,description
+adresse.inexistante@example.com,MotDePasse_Incorrect_123!,E-mail inexistant + mot de passe incorrect
+utilisateur_inexistant_htn,MotDePasse_Incorrect_123!,Identifiant inexistant
+adresse.inexistante@example.com,,Mot de passe vide
